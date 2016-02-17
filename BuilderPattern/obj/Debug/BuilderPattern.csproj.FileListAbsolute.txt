@@ -1,0 +1,6 @@
+c:\users\amy\documents\visual studio 2015\Projects\VisitorPattern\BuilderPattern\bin\Debug\BuilderPattern.exe.config
+c:\users\amy\documents\visual studio 2015\Projects\VisitorPattern\BuilderPattern\bin\Debug\BuilderPattern.exe
+c:\users\amy\documents\visual studio 2015\Projects\VisitorPattern\BuilderPattern\bin\Debug\BuilderPattern.pdb
+c:\users\amy\documents\visual studio 2015\Projects\VisitorPattern\BuilderPattern\obj\Debug\BuilderPattern.csprojResolveAssemblyReference.cache
+c:\users\amy\documents\visual studio 2015\Projects\VisitorPattern\BuilderPattern\obj\Debug\BuilderPattern.exe
+c:\users\amy\documents\visual studio 2015\Projects\VisitorPattern\BuilderPattern\obj\Debug\BuilderPattern.pdb
