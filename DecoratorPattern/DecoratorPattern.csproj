@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="CreamDecorator.cs" />
     <Compile Include="CreamFrap.cs" />
+    <Compile Include="CreamFrapLoggingDecorator.cs" />
     <Compile Include="Frap.cs" />
     <Compile Include="FrapDecorator.cs" />
     <Compile Include="Program.cs" />
