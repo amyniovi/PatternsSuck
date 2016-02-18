@@ -4,3 +4,6 @@ c:\users\amy\documents\visual studio 2015\Projects\VisitorPattern\DecoratorPatte
 c:\users\amy\documents\visual studio 2015\Projects\VisitorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.csprojResolveAssemblyReference.cache
 c:\users\amy\documents\visual studio 2015\Projects\VisitorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.exe
 c:\users\amy\documents\visual studio 2015\Projects\VisitorPattern\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
+C:\Users\Amy\Documents\Visual Studio 2015\Projects\Patterns\DecoratorPattern\bin\Debug\DecoratorPattern.exe.config
+C:\Users\Amy\Documents\Visual Studio 2015\Projects\Patterns\DecoratorPattern\obj\Debug\DecoratorPattern.exe
+C:\Users\Amy\Documents\Visual Studio 2015\Projects\Patterns\DecoratorPattern\obj\Debug\DecoratorPattern.pdb
