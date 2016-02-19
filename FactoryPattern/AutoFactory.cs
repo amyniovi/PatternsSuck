@@ -7,19 +7,26 @@ using System.Threading.Tasks;
 
 namespace FactoryPattern
 {
+    /*
+    Here via createInstance we Create a type of IAuto
+    Factory does not know concrete type
+    and Lazy loading ...n stff        
+        */
     public class AutoFactory
     {
         Dictionary<string, Type> _availableAutos = new Dictionary<string, Type>();
+        public AutoFactory()
+        {
+            LoadAvailableAutos();
+        }
 
         public IAuto CreateInstance(string carName)
         {
             IAuto car = null;
-            LoadAvailableAutos();
-
+           
             foreach (var keyvaluepair in _availableAutos)
             {
                 if (keyvaluepair.Key == carName)
-
                      car = Activator.CreateInstance(Assembly.GetExecutingAssembly().GetName().Name,keyvaluepair.Value.Name) as IAuto;
             }
 
