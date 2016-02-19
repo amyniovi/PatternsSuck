@@ -10,6 +10,17 @@ namespace FactoryPattern
     {
         static void Main(string[] args)
         {
+            var carName = args[0];
+
+            var factory = new AutoFactory();
+
+            IAuto car = factory.CreateInstance(carName);
+
+            car.SwitchOn();
+            car.Accelerate();
+
+            Console.ReadLine();
+
         }
     }
 }

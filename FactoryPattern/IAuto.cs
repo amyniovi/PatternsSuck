@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace FactoryPattern
 {
-    interface IAuto
+   public interface IAuto
     {
+        void SwitchOn();
+        void Accelerate();
     }
 }
